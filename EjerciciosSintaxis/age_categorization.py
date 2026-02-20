@@ -1,4 +1,4 @@
-# Exercise 2: Age Categorization (Simplified)
+# Exercise 2: Ages
 
 # Ask for user information
 first_name = input("Enter your first name: ")
